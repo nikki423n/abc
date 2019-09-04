@@ -3,7 +3,7 @@ import apcslib.*;
 /**
  * Write a description of class Logo here.
  *
- * @author (your name)
+ * @author Duy Nguyen
  * @version (a version number or a date)
  */
 public class Logo
